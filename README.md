@@ -115,15 +115,27 @@ print(me.mission())
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com/?user=sabri-1d&hide_border=true&background=0A0A0A&stroke=27272A&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=A1A1AA&dates=52525B&sideNums=FFFFFF&currStreakNum=FFFFFF" />
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabri-1d&theme=tokyonight" width="100%"/>
 
 <br/><br/>
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabri-1d&theme=tokyonight" height="220"/> &nbsp;&nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sabri-1d&theme=tokyonight&utcOffset=1" height="220"/>
 
-<br/>
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sabri-1d&theme=tokyonight" height="220"/> &nbsp;&nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabri-1d&theme=tokyonight" height="220"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sabri-1d&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B0F19&title_color=BFEAF5&text_color=E6F1F5&icon_color=4A90A4" height="165"/> &nbsp;&nbsp; <img src="https://streak-stats.demolab.com/?user=sabri-1d&hide_border=true&background=0B0F19&stroke=0B0F19&ring=4A90A4&fire=BFEAF5&currStreakLabel=BFEAF5&sideLabels=E6F1F5&currStreakNum=E6F1F5&sideNums=E6F1F5&dates=6B7B8C" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabri-1d&layout=donut&hide_border=true&bg_color=0B0F19&title_color=BFEAF5&text_color=E6F1F5" height="200"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabri-1d&bg_color=0B0F19&color=BFEAF5&line=4A90A4&point=E6F1F5&hide_border=true" width="100%"/> </div>
 
 
 ## 🏆 GitHub Trophies
